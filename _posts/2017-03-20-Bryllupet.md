@@ -12,3 +12,4 @@ Kveldens toastmastere vil være Julies søstre Jenny ([922 11 327][jenny-mob]) o
 
 [jenny-mob]: tel:+4792211327
 [elise-mob]: tel:+4799364741
+[bstrand-web]: http://www.bjellandstrand.no
